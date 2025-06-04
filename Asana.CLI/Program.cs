@@ -21,8 +21,7 @@ namespace Asana
 
                     switch (choiceInt)
                     {
-                        case 1:
-                            var toDo = new ToDo();
+                        case 1:                           
                             Console.Write("Name: ");
                             var name = Console.ReadLine();
                             Console.Write("Description: ");
