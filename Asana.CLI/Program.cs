@@ -22,7 +22,7 @@ namespace Asana
 
                     switch (choiceInt)
                     {
-                        case 1:                           
+                      case 1:
                             Console.Write("Name: ");
                             var name = Console.ReadLine();
                             Console.Write("Description: ");
